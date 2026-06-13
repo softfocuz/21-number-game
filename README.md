@@ -25,21 +25,34 @@ The project was created to practice Python fundamentals such as loops, condition
 
 ## Example Gameplay
 
-Current Number: 0
+How many numbers do you want to say? (1-3): 3
 
-You choose 2 numbers:
+You:
 1
 2
-
-Computer chooses 3 numbers:
 3
+
+Computer chooses 2 number(s):
 4
 5
+How many numbers do you want to say? (1-3): 3
 
-You choose 1 number:
+You:
 6
+7
+8
 
 ...
+
+How many numbers do you want to say? (1-3): 2
+
+You:
+19
+20
+
+Computer chooses 3 number(s):
+21
+Computer said 21. Computer loses!
 
 ### Note
 

@@ -35,6 +35,7 @@ You:
 Computer chooses 2 number(s):
 4
 5
+
 How many numbers do you want to say? (1-3): 3
 
 You:

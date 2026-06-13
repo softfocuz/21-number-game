@@ -28,19 +28,27 @@ The project was created to practice Python fundamentals such as loops, condition
 How many numbers do you want to say? (1-3): 3
 
 You:
+
 1
+
 2
+
 3
 
 Computer chooses 2 number(s):
+
 4
+
 5
 
 How many numbers do you want to say? (1-3): 3
 
 You:
+
 6
+
 7
+
 8
 
 ...
@@ -48,11 +56,15 @@ You:
 How many numbers do you want to say? (1-3): 2
 
 You:
+
 19
+
 20
 
 Computer chooses 3 number(s):
+
 21
+
 Computer said 21. Computer loses!
 
 ### Note
